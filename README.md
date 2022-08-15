@@ -6,8 +6,8 @@ When doing these exercises, please use all the documentation and resources you n
 
 # Status - Zachary Williams
 ## Foundations
-01-css-methods: Complete
-02-class-id-selectors: Incomplete
+-01-css-methods: Complete
+-02-class-id-selectors: Incomplete
 
 ## Contributing
 
